@@ -5,6 +5,16 @@
       </div>
       <div class="row">
           <div class="box">
+             <a href="https://developerkmhan.github.io/portpolioRamenShop/">
+                <img class="box-image" :src="require('../assets/portfolio_ramenShop.png')">
+             </a>
+             <div class="box-info">
+                 <h1>라면인건가 | 2020.12</h1>
+                 <span>라면 주문 사이트</span>
+                 <p>#Vue</p>
+             </div>
+          </div>
+          <div class="box">
              <img class="box-image" :src="require('../assets/portfolio_mine_sweeper.png')">
              <div class="box-info">
                  <h1>지뢰찾기 | 2020.10</h1>
